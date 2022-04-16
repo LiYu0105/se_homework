@@ -85,7 +85,9 @@
 @end
 ```
 ### **UML 类图对比**
+### 未使用单一原则：
 ![UML1](https://github.com/LiYu0105/se_homework/blob/master/images/uml1.png)
 &nbsp;
+### 使用了单一原则：
 ![UML2](https://github.com/LiYu0105/se_homework/blob/master/images/uml2.png)
 
