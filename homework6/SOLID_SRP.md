@@ -85,6 +85,7 @@
 @end
 ```
 ### **UML 类图对比**
-![UML1]https://github.com/LiYu0105/se_homework/blob/master/images/uml1.png
-![UML2]https://github.com/LiYu0105/se_homework/blob/master/images/uml2.png
+![UML1](https://github.com/LiYu0105/se_homework/blob/master/images/uml1.png)
+&nbsp;
+![UML2](https://github.com/LiYu0105/se_homework/blob/master/images/uml2.png)
 
