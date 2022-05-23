@@ -6,10 +6,12 @@ jobs:
   
   build:
 
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest    
     
     steps:
+    
     - uses: actions/checkout@v1
+    
     - name: executing
       run: 
         cat TestAction.java
