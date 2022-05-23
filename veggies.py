@@ -1,2 +1,2 @@
-veggies = ['cabbage', 'carrot', 'spinach', 
-'asparagus','artichoke', 'pumpkin','lettuce']
+veggies = ['cabbage', 'carrot', 'spinach', 'asparagus','artichoke', 'pumpkin','lettuce']
+print(veggies)
