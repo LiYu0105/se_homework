@@ -148,11 +148,11 @@ public void run() {
 
 **服务器开启**
 
-![Server1](https://gitee.com/LiYu0105/se_homework/raw/master/images/Server.png)
+![Server1](https://gitee.com/LiYu0105/se_homework/raw/master/images/Server1.png)
 
 **服务器连接成功，收到消息**
 
-![Server1](https://gitee.com/LiYu0105/se_homework/raw/master/images/Server1.png)
+![Server1](https://gitee.com/LiYu0105/se_homework/raw/master/images/Server.png)
 
  &emsp;
  ## 二.实现传输文件的功能
@@ -176,7 +176,7 @@ public void run() {
 
 因为默认情况下，enctype的值是application/x-www-form-urlencoded，不能用于文件上传，只有使用了multipart/form-data，才能完整的传递文件数据。
 
-2）Servlet中需要构造文件项工厂对象；然后创建一个上传工具并解析上传的数据，得到表单项FileItem。
+2）Servlet中需要构造文件项工厂对象；然后创建一个上传工具并解析上传的数据，得到表单项FileItem，之后对表单项进行处理。
 
  &emsp;
  ## 4.关键代码
@@ -214,9 +214,11 @@ public void run() {
  &emsp;
  ## 5.效果展示
 
-**点击上传以后会提示选择文件**
+**1）点击上传以后会提示选择文件**
 
-![Upload](https://gitee.com/LiYu0105/se_homework/raw/master/images/upload.jpg)
+![Upload](https://gitee.com/LiYu0105/se_homework/raw/master/images/upload1.jpg)
+
+**2）手机选择文件上传以后，会直接传输到电脑指定路径下的文件夹中，从而实现文件的传输。**
  &emsp;
 
 
