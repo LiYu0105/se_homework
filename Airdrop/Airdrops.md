@@ -137,10 +137,22 @@ public void run() {
 
  &emsp;
  ## 6.效果展示
-![client1](https://gitee.com/LiYu0105/se_homework/blob/master/images/client1.jpg)
-![client2](https://gitee.com/LiYu0105/se_homework/blob/master/images/client2.jpg)
-![Server](https://gitee.com/LiYu0105/se_homework/blob/master/images/Server.png)
-![Server1](https://gitee.com/LiYu0105/se_homework/blob/master/images/Server1.png)
+
+**客户端连接成功**
+
+![client1](https://gitee.com/LiYu0105/se_homework/raw/master/images/client1.jpg)
+
+**客户端发送成功**
+
+![client2](https://gitee.com/LiYu0105/se_homework/raw/master/images/client2.jpg)
+
+**服务器开启**
+
+![Server1](https://gitee.com/LiYu0105/se_homework/raw/master/images/Server.png)
+
+**服务器连接成功，收到消息**
+
+![Server1](https://gitee.com/LiYu0105/se_homework/raw/master/images/Server1.png)
 
  &emsp;
  ## 二.实现传输文件的功能
@@ -201,7 +213,10 @@ public void run() {
  
  &emsp;
  ## 5.效果展示
-![Upload](https://gitee.com/LiYu0105/se_homework/blob/master/images/upload.jpg)
+
+**点击上传以后会提示选择文件**
+
+![Upload](https://gitee.com/LiYu0105/se_homework/raw/master/images/upload.jpg)
  &emsp;
 
 
